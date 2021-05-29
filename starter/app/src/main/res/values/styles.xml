@@ -8,4 +8,22 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="detail_title_item_style" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/default_text_color</item>
+    </style>
+
+    <style name="detail_subtitle_item_style">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/default_text_color</item>
+    </style>
+
+    <style name="asteroid_title_item_style" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/default_text_color</item>
+    </style>
+
+    <style name="asteroid_subtitle_item_style">
+        <item name="android:textColor">@color/text_grey</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
 </resources>
