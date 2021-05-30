@@ -31,33 +31,27 @@ Asteroid Radar is an app to view the asteroids detected by NASA that pass near E
 - Kotlin Coroutines
 - WorkManager
 - RecyclerView
+- Single activity vs Multiple fragments
+- Navigation component
 - Support multiple languages
 
 ## How to build the app
 
-1. Clone or download project under https://github.com/hiepxuan2008/nd940-android-kotlin-c2-HiepMT
+1. Clone or download project under https://github.com/hiepxuan2008/nd940-android-kotlin-asteroids-radar-HiepMT
 2. Open `starter` folder via Android Studio IDE
 3. Go goto `Constants.kt` class, replace your api key under `API_KEY` variable
 
 ## Demo
 
 #### Demo main features
-
-   <video width="50%" src="./demo/demo1.mp4"></video>
+https://user-images.githubusercontent.com/6292433/120095850-6e7b8580-c152-11eb-987b-c3664187d8e1.mp4
 
 
 #### Support multiple languges
+https://user-images.githubusercontent.com/6292433/120095866-8bb05400-c152-11eb-94ca-05d034e01557.mp4
 
-   <video width="50%" src="./demo/demo2.mp4"></video>
-
-
-## Built With
-
-To build this project you are going to use the NASA NeoWS (Near Earth Object Web Service) API, which you can find here.
-https://api.nasa.gov/
-
-You will need an API Key which is provided for you in that same link, just fill the fields in the form and click Signup.
 
 ## License
 
 Mai Thanh Hiep & Udacity
+
