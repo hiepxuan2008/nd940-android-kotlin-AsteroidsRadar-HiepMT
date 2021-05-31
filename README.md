@@ -39,7 +39,7 @@ Asteroid Radar is an app to view the asteroids detected by NASA that pass near E
 
 1. Clone or download project under https://github.com/hiepxuan2008/nd940-android-kotlin-asteroids-radar-HiepMT
 2. Open `starter` folder via Android Studio IDE
-3. Go goto `Constants.kt` class, replace your api key under `API_KEY` variable
+3. Go to `gradle.properties` file, replace with your api key under `NASA_API_KEY` variable
 
 ## Demo
 
